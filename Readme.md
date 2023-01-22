@@ -24,3 +24,9 @@
 # Basic Graphs
         ➡️ Day 89 to Day 100
     
+   
+   
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://manukaushikk.github.io/Portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manu-kaushik-430668220/)
