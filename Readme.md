@@ -1,7 +1,12 @@
 ### 100 Days of DSA
 
 # Language basics (Java) / OOPS 
+
         ➡️ Day 1 to Day 5 
+            Polymorphism
+            Inheritance
+            Encapsulation
+            Abstractions
 
 # Arrays/2D Arrays  
         ➡️ Day 6 to Day 20 
