@@ -1,3 +1,4 @@
+package OOPS;
 // Methods in Java
 
 public class main {
