@@ -4,10 +4,12 @@
 # Language basics (Java) / OOPS 
 
         ➡️ Day 1 to Day 5 
-            Polymorphism
-            Inheritance
-            Encapsulation
-            Abstractions
+            Polymorphism        Day 1 ✅
+            Inheritance         Day 2 ✅
+            Encapsulation       Day 3 ✅
+            Abstractions        Day 4 ✅
+
+            Basic Programs      Day 5 ✅
 
 # Arrays/2D Arrays  
         ➡️ Day 6 to Day 20 
