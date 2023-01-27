@@ -11,25 +11,25 @@
 
             Basic Programs      Day 5 ✅        
 
-                &#8594; Is Number Prime ?
+                → Is Number Prime ?
 
-                &#8594; Print all Prime Numbers till N
+                → Print all Prime Numbers till N
 
-                &#8594; Prime Factorization
+                → Prime Factorization
 
-                &#8594; Print all Fibonacci Numbers till N
+                → Print all Fibonacci Numbers till N
 
-                &#8594; Count Digits in a Number
+                → Count Digits in a Number
 
-                &#8594; Digit of Number
+                → Digit of Number
 
-                &#8594; Reverse of a Numbers
+                → Reverse of a Numbers
 
-                &#8594; Inverse a Number
+                → Inverse a Number
 
-                &#8594; Rotate a Number
+                → Rotate a Number
 
-                &#8594; Pythagorean Triplet
+                → Pythagorean Triplet
 
 # Arrays/2D Arrays  
         ➡️ Day 6 to Day 20 
