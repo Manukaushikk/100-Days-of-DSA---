@@ -9,7 +9,8 @@
             Encapsulation       Day 3 ✅
             Abstractions        Day 4 ✅
 
-            Basic Programs      Day 5 ✅
+            Basic Programs      Day 5 ✅        
+                &#8594; Is number Prime
 
 # Arrays/2D Arrays  
         ➡️ Day 6 to Day 20 
