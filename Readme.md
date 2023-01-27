@@ -10,7 +10,7 @@
             Abstractions        Day 4 ✅
 
             Basic Programs      Day 5 ✅        
-                &#8594; Is number Prime
+                &#8594;Is number Prime
 
 # Arrays/2D Arrays  
         ➡️ Day 6 to Day 20 
