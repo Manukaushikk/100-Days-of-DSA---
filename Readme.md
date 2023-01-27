@@ -11,29 +11,23 @@
 
             Basic Programs      Day 5 ✅        
 
-                &#8594; Print all Prime Numbers till N
+                &#8594; Is Number Prime ?
 
+                &#8594; Print all Prime Numbers till N
 
                 &#8594; Prime Factorization
 
-
                 &#8594; Print all Fibonacci Numbers till N
-
 
                 &#8594; Count Digits in a Number
 
-
                 &#8594; Digit of Number
-
 
                 &#8594; Reverse of a Numbers
 
-
                 &#8594; Inverse a Number
 
-
                 &#8594; Rotate a Number
-
 
                 &#8594; Pythagorean Triplet
 
