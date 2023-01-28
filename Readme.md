@@ -31,6 +31,9 @@
 
                 → Pythagorean Triplet
 
+
+                Now 29 - 01 - 2023 All Completed ✅
+
 # Arrays/2D Arrays  
         ➡️ Day 6 to Day 20 
 
