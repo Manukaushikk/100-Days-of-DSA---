@@ -1,37 +1,35 @@
-### 100 DAYS OF DSA
-
 # Language basics (Java) / OOPS 
 
-        ➡️ Day 1 to Day 5 
-            Polymorphism        Day 1 ✅
-            Inheritance         Day 2 ✅
-            Encapsulation       Day 3 ✅
-            Abstractions        Day 4 ✅
+                ➡️ Day 1 to Day 5 
+                    Polymorphism        Day 1 ✅
+                    Inheritance         Day 2 ✅
+                    Encapsulation       Day 3 ✅
+                    Abstractions        Day 4 ✅
 
-            Basic Programs      Day 5 ✅        
+                    Basic Programs      Day 5 ✅        
 
-                → Is Number Prime ?
+                        → Is Number Prime ?
 
-                → Print all Prime Numbers till N
+                        → Print all Prime Numbers till N
 
-                → Prime Factorization
+                        → Prime Factorization
 
-                → Print all Fibonacci Numbers till N
+                        → Print all Fibonacci Numbers till N
 
-                → Count Digits in a Number
+                        → Count Digits in a Number
 
-                → Digit of Number
+                        → Digit of Number
 
-                → Reverse of a Numbers
+                        → Reverse of a Numbers
 
-                → Inverse a Number
+                        → Inverse a Number
 
-                → Rotate a Number
+                        → Rotate a Number
 
-                → Pythagorean Triplet
+                        → Pythagorean Triplet
 
 
-                Now 29 - 01 - 2023 All Completed ✅
+                        Now 29 - 01 - 2023 All Completed ✅
 
 # Arrays/2D Arrays  
         ➡️ Day 6 to Day 20 
