@@ -1,3 +1,4 @@
+// Inverse of An Array
 import java.util.Scanner;
 
 public class Ques6 {
