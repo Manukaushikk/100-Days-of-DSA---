@@ -20,7 +20,7 @@ public class Ques10 {
         if (arr[idx] == k) {
             return idx;
         } else {
-            return (arr, idx + 1, k);
+            return firstIndex(arr, idx + 1, k);
         }
     }
 }
