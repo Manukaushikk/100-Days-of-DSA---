@@ -18,6 +18,6 @@ public class Ques7 {
         if (idx == arr.length)
             return;
         System.out.println(arr[idx]);
-        DisplayArr(arr, idx + 1);
+        DisplayArr(arr, idx + 1); // Faith
     }
 }
