@@ -1,3 +1,5 @@
+
+// First Index
 import java.util.Scanner;
 
 public class Ques10 {
