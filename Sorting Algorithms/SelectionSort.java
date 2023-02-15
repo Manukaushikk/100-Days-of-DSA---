@@ -31,3 +31,6 @@ public class SelectionSort {
         ob.display(arr);
     }
 }
+
+// Time Complexity -> 0(n);
+// Space Complexity -> 0(1);

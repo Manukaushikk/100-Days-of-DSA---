@@ -35,4 +35,6 @@ public class BubbleSort {
         ob.display(arr);
     }
 }
-// }
+
+// Time Complexity -> O(n²)
+// Space Complexity -> 0(1);
