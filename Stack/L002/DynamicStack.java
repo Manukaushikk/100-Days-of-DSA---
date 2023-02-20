@@ -1,9 +1,7 @@
 
-// Normal Stack
-
 import java.io.*;
 
-public class NormalStack {
+public class DynamicStack {
 
     public static class CustomStack {
         int[] data;
@@ -16,46 +14,43 @@ public class NormalStack {
 
         int size() {
             return tos + 1;
-            // write ur code here
         }
 
         void display() {
-            // write ur code here
             for (int i = tos; i >= 0; i--) {
                 System.out.print(data[i] + " ");
             }
             System.out.println();
         }
 
+        // change the code of this function according to question
         void push(int val) {
-            if (size() == data.length) {
+            if (tos == data.length - 1) {
                 System.out.println("Stack overflow");
-                return;
+            } else {
+                tos++;
+                data[tos] = val;
             }
-            tos++;
-            data[tos] = val;
-            // write ur code here
         }
 
         int pop() {
-            if (size() == 0) {
+            if (tos == -1) {
                 System.out.println("Stack underflow");
                 return -1;
+            } else {
+                int val = data[tos];
+                tos--;
+                return val;
             }
-            int val = data[tos];
-            tos--;
-            return val;
-            // write ur code here
         }
 
         int top() {
-            if (size() == 0) {
+            if (tos == -1) {
                 System.out.println("Stack underflow");
                 return -1;
+            } else {
+                return data[tos];
             }
-            int val = data[tos];
-            return val;
-            // write ur code here
         }
     }
 
