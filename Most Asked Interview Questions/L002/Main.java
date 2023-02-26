@@ -1,6 +1,6 @@
 
-// Write a code to Remove all characters from string except alphabets
 import java.util.Scanner;
+// Write a code to Remove all characters from string except alphabets
 
 public class Main {
     public static void main(String[] args) {
