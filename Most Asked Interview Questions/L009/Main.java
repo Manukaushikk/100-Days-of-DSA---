@@ -1,3 +1,5 @@
+// Write code Check if the given string is Palindrome or not
+
 import java.util.Scanner;
 
 public class Main {
