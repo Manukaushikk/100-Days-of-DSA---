@@ -10,6 +10,6 @@ public class Main {
 
         int i = c;
 
-        System.out.println("ASCII Value of " + c + "is" + i);
+        System.out.println("ASCII Value of " + c + " " + "is ->" + " " + i);
     }
 }
